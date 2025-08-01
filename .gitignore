@@ -6,3 +6,4 @@ build/
 *.pyc
 node_modules/
 .cache/
+*.tmp
